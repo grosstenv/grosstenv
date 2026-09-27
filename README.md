@@ -1,7 +1,7 @@
 ### 🛠️ Tech Stack
 
 * **Compiling code with Python**
-* **Focused on advancing towards Python Mastery & Learning German**
+* **Focused on advancing towards Python Mastery & Learning Deutsch**
 
 ### 🗣️ Languages
 
